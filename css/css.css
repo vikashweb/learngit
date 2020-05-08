@@ -1,0 +1,64 @@
+.container.con-form {
+    width: 26%;
+    border-radius: 5px;
+	text-align: center;
+	padding: 0 39px 25px 39px;
+	
+	background-color: white;
+    
+    box-shadow: 2px 5px 12px 0px grey;
+}
+body {
+    background-color: #e9e6e6;
+}
+.container.form-hh {
+    width: 100%;
+}
+.form-group input {
+    width: 100%;
+}
+button.btn.btn-block {
+    background-color: #ed6464;
+    color: white;
+}
+.form-group.or {
+    color: #ba9494;
+}
+.container.form-hh {
+    padding: 13px 0 29px 0;
+}
+.form-group {
+    padding: 5px 0px 5px 0;
+}
+img.logo-logo {
+    width: 9%;
+}
+.container.logo {
+    text-align: center;
+    padding: 62px 0 88px 0;
+    font-size: 33px;
+    color: green;
+}
+
+button.btn {
+    width: 100%;
+}
+.log-btn {
+ 
+    border-radius: 5px;
+    box-shadow: 1px 4px 10px 0px grey;
+}
+.side {
+    width: 20%;
+}
+img {
+    width: 100%;
+}
+
+
+@media only screen and (max-width: 600px) {
+	.container.con-form {
+		width: 90%;
+	}
+
+}
